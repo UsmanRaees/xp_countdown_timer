@@ -1,0 +1,21 @@
+{
+  "name": "xp_countdown_timer",
+  "version": "1.0.0",
+  "main": "time.js",
+  "type": "module",
+  "bin": "time.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "inquirer": "^9.3.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
